@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.69f210c9.css",
-    "main.js": "/static/js/main.94ed2fb3.js",
-    "static/media/bg.jpeg": "/static/media/bg.8fcdfd9bce1f712f870d.jpeg",
-    "index.html": "/index.html",
-    "main.69f210c9.css.map": "/static/css/main.69f210c9.css.map",
-    "main.94ed2fb3.js.map": "/static/js/main.94ed2fb3.js.map"
+    "main.css": "/john2360.github.io/picky-eater-test/static/css/main.6e2378d2.css",
+    "main.js": "/john2360.github.io/picky-eater-test/static/js/main.94ed2fb3.js",
+    "static/media/bg.jpeg": "/john2360.github.io/picky-eater-test/static/media/bg.8fcdfd9bce1f712f870d.jpeg",
+    "index.html": "/john2360.github.io/picky-eater-test/index.html",
+    "main.6e2378d2.css.map": "/john2360.github.io/picky-eater-test/static/css/main.6e2378d2.css.map",
+    "main.94ed2fb3.js.map": "/john2360.github.io/picky-eater-test/static/js/main.94ed2fb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.69f210c9.css",
+    "static/css/main.6e2378d2.css",
     "static/js/main.94ed2fb3.js"
   ]
 }
